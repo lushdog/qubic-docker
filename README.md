@@ -1,5 +1,5 @@
 # qubic-docker
-docker for docker
+docker for qubic
 
 
 ## 1.修改 app/appsettings.json 配置
