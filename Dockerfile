@@ -15,7 +15,7 @@ RUN tar -zxvf qli-Client-${VERSION}-Linux-x64.tar.gz
 
 WORKDIR /app
 
-RUN cp /download/qli-Client-${VERSION}-Linux-x64/qli-Client /app/ && rm -rf /download
+RUN cp /download/qli-Client /app/ && rm -rf /download
 
 VOLUME ["/app"]
 
