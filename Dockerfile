@@ -17,6 +17,6 @@ WORKDIR /app
 
 RUN cp /download/qli-Client /app/ && rm -rf /download
 
-VOLUME ["/app"]
+VOLUME /app
 
 ENTRYPOINT ["./qli-Client"]
