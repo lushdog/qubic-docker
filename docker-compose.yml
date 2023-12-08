@@ -14,5 +14,5 @@ services:
         target: /app/appsettings.json
     restart: unless-stopped
 
-    volumes:
-      qubicdata:
+volumes:
+  qubicdata:
