@@ -10,5 +10,5 @@ docker for qubic
 
 ## 3.启动
 
-`docker compose build -d`
+`docker compose up -d`
 
