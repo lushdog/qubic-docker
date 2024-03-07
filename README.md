@@ -6,7 +6,7 @@ docker for qubic
 
 ## 2.构建指定版本
 
-`docker compose build --build-arg VERSION=1.7.5`
+`docker compose build --build-arg VERSION=1.8.6`
 
 ## 3.启动
 
